@@ -10,5 +10,5 @@ Here are some ideas to get you started:
  - 👴🏿 I have been building mobile apps for over over 3 years. 
  - 👴🏿 I have been building mobile apps with modern languages(Swift and Kotlin) for over over 3 years. 
  - ❤️ I Love Design so i focus on designer to developer ***Handoffs*** and ***Design Tokens*** for iOS.
- - 📫 How to reach me?:  diayansiat@gmail.com
+ - 📫 How to reach me?: elviva96@gmail.com
 
